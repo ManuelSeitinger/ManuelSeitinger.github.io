@@ -20,6 +20,15 @@
   background-color: #B7C5E0;
 }
 
+.video-windows{
+  text-align: center;
+}
+
+#vd-win{
+  width: 600px;
+  height: 300px;
+}
+
 ul {
   margin: 0;
   padding: 0;
