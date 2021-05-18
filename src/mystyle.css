@@ -1,8 +1,21 @@
-.main-heading {
+.heading {
   font-family: sans-serif;
   font-size: 120px;
-  border-radius: 20px;
-  border-width: medium;
-  border-style: solid;
   text-align: center;
+}
+
+.bd-windows{
+  background-image: url("media/windows_xp.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.bd-linux{
+  background-image: url("media/ubuntu.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.bd-main{
+  background-color: #B7C5E0;
 }
