@@ -1,7 +1,17 @@
 .heading {
-  font-family: sans-serif;
+  font-family: verdana,sans-serif;
   font-size: 25px;
   text-align: center;
+  font-weight: bold;
+}
+
+#text{
+  font-family: Georgia,serif;
+  font-size: 15px;
+}
+
+.bd-main{
+  background-color: #B7C5E0;
 }
 
 .bd-windows{
@@ -14,10 +24,6 @@
   background-image: url("media/ubuntu.png");
   background-size: 100%;
   background-repeat: no-repeat;
-}
-
-.bd-main{
-  background-color: #B7C5E0;
 }
 
 .video-windows{
