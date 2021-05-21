@@ -10,6 +10,12 @@
   font-size: 15px;
 }
 
+.text_of_page{
+  height: 200px;
+  width: 100%;
+  background-color: white;
+}
+
 .bd-main{
   background-color: #B7C5E0;
 }
@@ -35,6 +41,23 @@
   height: 300px;
 }
 
+.video-linux{
+  text-align: center;
+}
+
+#vd-lin{
+  width: 600px;
+  height: 300px;
+}
+
+#link_to_page{
+  color: black;
+}
+
+#pictureLink{
+    width: 200px;
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -54,6 +77,12 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
-  background-color: #111;
+table{
+    width: 100%;
+}
+
+td, th {
+  border: 1px solid;
+  text-align: left;
+  padding: 8px;
 }
